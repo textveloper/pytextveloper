@@ -7,7 +7,7 @@ import requests
 import time
 
 class Textveloper(object):
-    api_url = 'http://api.textveloper.com/{0}/'
+    api_url = 'https://api.textveloper.com/{0}/'
 
 
 class API(Textveloper):
